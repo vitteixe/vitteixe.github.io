@@ -898,6 +898,8 @@ body > footer .copyrights {
   text-align: center;
   margin: 0 auto;
   margin-top: 20px;
+  color: white;
+  display: block;
 }
 
 .start-page-content .social-links a {
